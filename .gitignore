@@ -6,6 +6,7 @@ venv
 .out
 .tox
 .coverage
+.idea
 *.pyc
 *.swp
 *.egg-info
